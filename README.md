@@ -52,7 +52,7 @@
 | **氛围** | 洁净、克制、可信 —— 企业级 SaaS 技术说明书气质，讲"怎么运作"而非"多酷" |
 | **密度** | 中低，一图一件事 |
 
-完整的分析见 [`docs/style-guide.html`](docs/style-guide.html)（可视化版，10 节：结构剖面、版式骨架、色卡面积占比、9 个零件实物复刻、标题→版式映射、提示词模板、自检清单），可执行版见 [`docs/style-spec.md`](docs/style-spec.md)。
+完整的分析见 [`docs/style-guide.html`](docs/style-guide.html)（可视化版，10 节：结构剖面、版式骨架、色卡面积占比、9 个零件实物复刻、标题→版式映射、提示词模板、自检清单）——克隆后双击用浏览器打开；精简可执行版见 [`docs/style-spec.md`](docs/style-spec.md)。
 
 ## 为什么用 HTML 渲染，而不是 AI 生图
 
